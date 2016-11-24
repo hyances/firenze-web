@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'zurich-Lt.ttf';
+    font-family: 'zurich-Cn-Bt.ttf';
+    font-family: 'zurich-Cn-Bt-light.ttf';
+    font-family: 'zurich-Lt-Bt-light.ttf';
+    font-family:'Zurich Light Condensed';
+    
+    src: url('zurich-Lt.ttf');
+    src: url('zurich-Cn-Bt.ttf');
+    src: url('zurich-Cn-Bt-light.ttf');
+    src: url('zurich-Lt-Bt-light.ttf');
+    src: url('Zurich-Light-Condensed');
+
+}
+
