@@ -106,6 +106,7 @@ footer {
     text-align: center;
     padding: 30px 0px;
     color: #6D3B1B;
+    font-size: 17px;
 }
 
 .color-fluid-2 h1{
@@ -183,6 +184,10 @@ footer {
 }
 .panel-body-hover:hover{
     opacity: 1;
+    transition:All 1s ease;
+    -webkit-transition:All 1s ease;
+    -moz-transition:All 1s ease;
+    -o-transition:All 1s ease;
 }
 .contenido-panel-body{
     position: absolute;
