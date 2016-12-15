@@ -1,7 +1,0 @@
-Falta clasificar las fotos por tipo de habitación:
-
-- Estándar
-- Superior
-- Superior-balcón
-- King
-- Suite
